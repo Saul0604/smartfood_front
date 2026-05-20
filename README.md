@@ -85,8 +85,6 @@ src/
 
 ## 📱 Funcionalidades Futuros
 
-- [ ] Agregar/Editar/Eliminar alimentos
-- [ ] Sincronización con base de datos
 - [ ] Notificaciones de alimentos próximos a caducar
 - [ ] Compartir lista con familia
 - [ ] Historial de alimentos consumidos
